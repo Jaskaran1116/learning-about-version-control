@@ -2,4 +2,6 @@
 
 Authors: Jaskaran Singh
 
-Solving merge conflicts is soooooo hard!
+
+Solving Merge Conflict is easy !
+
